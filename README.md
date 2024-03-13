@@ -11,14 +11,25 @@
 
 ## Instances
 
-[Ameera [ByteBlaze](https://github.com/RainyXeon/ByteBlaze)](https://discord.com/oauth2/authorize?client_id=969003833059590216&scope=bot&permissions=8)
+* Ameera: ByteBlaze
 
-[Aliya [RedBot Discord](https://github.com/Cog-Creators/Red-DiscordBot)](https://discord.com/oauth2/authorize?client_id=972459217548099584&scope=bot&permissions=0)
+
+* [Source](https://github.com/RainyXeon/ByteBlaze)
+
+
+* [Invite](https://discord.com/oauth2/authorize?client_id=969003833059590216&scope=bot&permissions=8)
+
+* Aliya : RedBot Discord
+
+[Source](https://github.com/Cog-Creators/Red-DiscordBot)
+
+
+[Invite Here](https://discord.com/oauth2/authorize?client_id=972459217548099584&scope=bot&permissions=0)
 
 ** Note: I can host another instances, dm my discord if you have an idea**
 
 ## Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/:796915832617828352)](https://discord.com/users/:796915832617828352)
+[![Discord Presence](https://lanyard.cnrad.dev/api/796915832617828352)](https://discord.com/users/796915832617828352)
 <!--
 **OrdinaryEnder/OrdinaryEnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
