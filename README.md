@@ -14,10 +14,10 @@
 * Ameera: ByteBlaze
 
 
-* [Source](https://github.com/RainyXeon/ByteBlaze)
+[Source](https://github.com/RainyXeon/ByteBlaze)
 
 
-* [Invite](https://discord.com/oauth2/authorize?client_id=969003833059590216&scope=bot&permissions=8)
+[Invite](https://discord.com/oauth2/authorize?client_id=969003833059590216&scope=bot&permissions=8)
 
 * Aliya : RedBot Discord
 
