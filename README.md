@@ -29,7 +29,8 @@
 ** Note: I can host another instances, dm my discord if you have an idea**
 
 ## Status
-[![Discord Presence](https://api.lanyard.rest/v1/users/796915832617828352)](https://discord.com/users/796915832617828352)
+
+<img src="https://lanyard.cnrad.dev/api/796915832617828352 " alt="discordImage"/>
 <!--
 **OrdinaryEnder/OrdinaryEnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
