@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * Who am i?
-  I'm OrdinaryEnder, a year 8 student from Indonesia
+  I'm OrdinaryEnder, a student from Indonesia
 
   I like playing Mobile Legends Bang Bang, Watching discord chat, Writing codes (sometimes), and trying new games
 
@@ -11,17 +11,16 @@
 
 ## Instances
 
-* Ameera: ByteBlaze
+* Ameera: Ameera (Still WIP to Adapt new d.py)
 
-
-[Source](https://github.com/RainyXeon/ByteBlaze)
+Not Available
 
 
 [Invite](https://discord.com/oauth2/authorize?client_id=969003833059590216&scope=bot&permissions=8)
 
-* Aliya : RedBot Discord
+* Aliya : Shape INC
 
-[Source](https://github.com/Cog-Creators/Red-DiscordBot)
+[Source](https://shapes.inc)
 
 
 [Invite Here](https://discord.com/oauth2/authorize?client_id=972459217548099584&scope=bot&permissions=0)
