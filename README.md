@@ -6,6 +6,7 @@
   I like playing Mobile Legends Bang Bang, Watching discord chat, Writing codes (sometimes), and trying new games
 
 * Do you have any contacts?
+
   I have discord that matches my username
   maybe try to find me as the same username too
 
