@@ -2,7 +2,7 @@
 
 * Who am i?
   I'm OrdinaryEnder, a student from Indonesia
-
+  
   I like playing Mobile Legends Bang Bang, Watching discord chat, Writing codes (sometimes), and trying new games
 
 * Do you have any contacts?
@@ -10,23 +10,21 @@
   I have discord that matches my username
   maybe try to find me as the same username too
 
+* what are you doing rn?
+
+  null
+
 ## Instances
 
 * Ameera: Ameera (Still WIP to Adapt new d.py)
-
 Not Available
-
-
 [Invite](https://discord.com/oauth2/authorize?client_id=969003833059590216&scope=bot&permissions=8)
 
 * Aliya : Shape INC
 
 [Source](https://shapes.inc)
 
-
 [Invite Here](https://discord.com/oauth2/authorize?client_id=972459217548099584&scope=bot&permissions=0)
-
-** Note: I can host another instances, dm my discord if you have an idea**
 
 ## Status
 
